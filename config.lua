@@ -16,18 +16,16 @@ return {
             DiscordLink = "https://discord.com/users/576849921471152140"
         }
     },
-    DiscordInvite = "https://discord.gg/getlunara",
-    WebsiteUrl = "https://getlunara.tech",
+    DiscordInvite = "https://discord.gg/lungless",
+    WebsiteUrl = "https://lungless.store/",
     Scripts = {
         Full = {
-            Name = "Lunara",
-            Version = "1.0",
-            ChangeLog = "[+] Inital release!"
+            Name = "Lungless",
+            ChangeLog = "Lungless Store On Top"
         },
         Lite = {
-            Name = "Lunara Lite",
-            Version = "1.1",
-            ChangeLog = "[*] Fixed support for \"solara\" executor"
+            Name = "Lungless Store",
+            ChangeLog = "Lungless Store On Top"
         }
     }
 }
