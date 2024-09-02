@@ -30,7 +30,7 @@ const audioData = [
     {
         url: 'https://cdn.discordapp.com/attachments/717855230301306944/1190874506542203021/my_life_as_a_duck.mp3',
         author: 'Charlie Winston',
-        title: 'My Life As Kush',
+        title: 'My Life as Kush',
         titleUrl: 'images/my_life_as_a_duck.jpeg'
     },
     {
