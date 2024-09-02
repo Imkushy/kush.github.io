@@ -14,9 +14,6 @@ console.log(`
         Finally added music!
     There are also effects too :)
 
-(migration to ducks.lol/quack soon!)
-            (hopefully)
-
 `);
 
 const defaultSong = 1;
